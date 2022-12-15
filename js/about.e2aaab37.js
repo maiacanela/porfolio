@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpracticawebdinamica2"]=self["webpackChunkpracticawebdinamica2"]||[]).push([[443],{1168:function(a,n,t){t.r(n),t.d(n,{default:function(){return r}});var i=function(){var a=this;a._self._c;return a._m(0)},u=[function(){var a=this,n=a._self._c;return n("div",{staticClass:"about"},[n("h1",[a._v("This is an about page")])])}],c=t(1001),e={},s=(0,c.Z)(e,i,u,!1,null,null,null),r=s.exports}}]);
+//# sourceMappingURL=about.e2aaab37.js.map
